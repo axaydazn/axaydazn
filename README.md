@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Amanda 
-- 👀 I’m interested in Computational Biology
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Siemens (in 5 years later)
+On Learning
 
 <!---
 axaydazn/axaydazn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
